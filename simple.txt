@@ -1,0 +1,34 @@
+
+# command history
+
+ 1043  mkdir basic_repo
+ 1044  cd basic_repo/
+ 1045  git init .
+ 1046  emacs -nw readme.md
+ 1047  cat readme.md
+ 1048  ls
+ 1049  git status
+ 1050  git commit -am "init"
+ 1051  git add readme.md
+ 1052  git commit -m "init"
+ 1053  ls
+ 1054  git log-glad
+ 1055  git config
+ 1056  git config -l
+ 1057  git remote add origin https://github.com/timoweave/basic_repo.git
+ 1058  git push --help
+ 1059  git branch
+ 1060  git push -u origin
+ 1061  git status
+ 1062  git log-glad
+ 1063  atom readme.md
+ 1064  git status
+ 1065  git commit -am "finish one step"
+ 1066  git status
+ 1067  git log-glad
+ 1068  git push -u origin
+ 1069  git config
+ 1070  git config -l
+ 1071  git push -u origin master
+ 1072  history
+ 1073  history > simple.txt
