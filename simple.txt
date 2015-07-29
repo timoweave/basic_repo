@@ -1,4 +1,8 @@
 
+# github address
+
+git clone https://github.com/timoweave/basic_repo.git
+
 # command history
 
  1043  mkdir basic_repo
